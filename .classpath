@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/base">
+	<classpathentry combineaccessrules="false" kind="var" path="JFX_DIR/build/sdk/lib/javafx.base.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry combineaccessrules="false" kind="src" path="/controls">
+	<classpathentry combineaccessrules="false" kind="var" path="JFX_DIR/build/sdk/lib/javafx.controls.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry combineaccessrules="false" kind="src" path="/fxml">
+	<classpathentry combineaccessrules="false" kind="var" path="JFX_DIR/build/sdk/lib/javafx.fxml.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry combineaccessrules="false" kind="src" path="/graphics">
+	<classpathentry combineaccessrules="false" kind="var" path="JFX_DIR/build/sdk/lib/javafx.graphics.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry combineaccessrules="false" kind="src" path="/media">
+	<classpathentry combineaccessrules="false" kind="var" path="JFX_DIR/build/sdk/lib/javafx.media.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry combineaccessrules="false" kind="src" path="/swing">
+	<classpathentry combineaccessrules="false" kind="var" path="JFX_DIR/build/sdk/lib/javafx.swing.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry combineaccessrules="false" kind="src" path="/swt">
+	<classpathentry combineaccessrules="false" kind="var" path="JFX_DIR/build/sdk/lib/javafx-swt.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry combineaccessrules="false" kind="src" path="/web">
+	<classpathentry combineaccessrules="false" kind="var" path="JFX_DIR/build/sdk/lib/javafx.web.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
